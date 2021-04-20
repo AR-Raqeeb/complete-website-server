@@ -1,7 +1,7 @@
 # Dance Class
 
-Live site:
-Server Site: 
+Live site: https://dance-class-b285d.web.app/
+Server Site: https://desolate-river-58782.herokuapp.com/
 
 ## It is a dance school website where people can learn different types of dance 
 
