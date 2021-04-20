@@ -1,26 +1,24 @@
-# Fit For Life
+# Dance Class
 
-Live site: https://fitnessclub-8232.web.app/
-Server Site: https://murmuring-oasis-89652.herokuapp.com/
+Live site:
+Server Site: 
 
-## It is a fitness website where people can learn fitness moves and get a lots of tips of fitness
+## It is a dance school website where people can learn different types of dance 
 
 ## Features: 
 
 User:
-1. User can buy courses from this website.
-2. User can get fitness tips from trainer.
-3. User can also select there own trainer.
-4. User can login and see there orders.
-5. User can also see the status of there orders.
+1. User can enroll in dance courses from this website.
+2. User can get dance tips from dance master.
+3. User can also select their own dance master.
+4. User can login and see their subscriptions.
+5. User can also see the status of their subscriptions.
 6. User can also give reviwes to this site.
 7. User can select their package and pay their bill via card.
 
 Admin:
 1. Admin can easily add or delete services.
-2. Admin can add another person as a admin.
-3. Admin can change the status of user's order.
-4. Admin can see all the orders the users have done
-# complete-website-client-AR-Raqeeb
+2. Admin can add another person as an admin.
+3. Admin can change the status of user's admission process.
+4. Admin can see all the admissions
 # complete-website-server-AR-Raqeeb
-# complete-website-server
